@@ -1,2 +1,2 @@
 # memory_hugger
-Hugs memory
+Hugs memory for requested amount of GBs until exited
