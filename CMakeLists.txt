@@ -41,4 +41,6 @@ target_link_libraries(memory_hugger
     Boost::program_options
     )
 
-
+install(TARGETS memory_hugger
+    DESTINATION ${CMAKE_INSTALL_PREFIX}/bin
+    )
